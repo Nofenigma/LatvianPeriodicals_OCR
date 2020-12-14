@@ -27,7 +27,8 @@ Poor quality OCR recognition; multilingual texts
 
 OCR layer with old orthography symbols available 
 
-[Available issues](http://periodika.lv/#periodicalItems;periodicalId=141672804359296381952152758403839598367)
+[Available issues (the main corpus)](http://periodika.lv/#periodicalItems;periodicalId=141672804359296381952152758403839598367)
+
 [Available issues (8 more)](http://periodika.lv/#periodical;id=26633521346598475474666534128088861199)
 
 
