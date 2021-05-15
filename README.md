@@ -40,6 +40,7 @@ OCR layer with old orthography symbols available
 OCR layer with old orthography symbols available 
 
 [Available issues] (http://periodika.lv/#periodicalMeta:1728;-1)
+
 [Available issues](http://datatest.lnb.lv/digitala_biblioteka/laikraksti/RizskijVestnik/index.htm)
 
 * Рижское утро, 1915-1917
