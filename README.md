@@ -7,12 +7,15 @@ Experiments with periodicals published on the territory on modern Latvia in vari
 
 * Курляндские губернские ведомости = Kurländische Gouvernements Zeitung, 1852-1915
 
+[Available issues] (http://periodika.lv/#periodicalMeta:1539;-1)
 
-* Rīgas Pilsētas Policijas Avīze = Ведомости Рижской Городской полиции
+NB: incorrectly chosen models for later issues (German instead of Russian)
+
+* Rīgas Pilsētas Policijas Avīze = Ведомости Рижской Городской полиции, 1889-1902 (not all years available)
 
 Trilingual; good Latvian and German OCR, poor Russian OCR (in modern orthography, many errors)
 
-[Available issues](http://periodika.lv/#periodical;id=3943548494932466414337361142002956794)
+[Available issues](http://periodika.lv/#periodicalMeta:358;-1)
 
 * Лифляндские губернские ведомости = Livländische Gouvernements-Zeitung = Vidzemes Guberņas Avīze
 
@@ -23,43 +26,50 @@ Poor quality OCR recognition; multilingual texts
 [Issues published in 1905](http://datatest.lnb.lv/digitala_biblioteka/laikraksti/VidzGubAvize/index.htm)
 
 
-* Рижское Обозрѣніе
+* Рижское Обозрѣніе, 1915-1917
 
 OCR layer with old orthography symbols available 
 
-[Available issues (the main corpus)](http://periodika.lv/#periodicalItems;periodicalId=141672804359296381952152758403839598367)
+[Available issues (the main corpus)](http://periodika.lv/#periodicalMeta:1683;-1)
 
 [Available issues (8 more)](http://periodika.lv/#periodical;id=26633521346598475474666534128088861199)
 
 
-* Рижский Вестник
-
-[Available issues](http://datatest.lnb.lv/digitala_biblioteka/laikraksti/RizskijVestnik/index.htm)
-
-* Рижское утро
+* Рижский Вестник, 1869-1917
 
 OCR layer with old orthography symbols available 
 
-[Available issues](http://periodika.lv/periodika2-viewer/view/index-dev.html?lang=fr#panel:pi|issue:/riut1915n001|issueType:P)
+[Available issues] (http://periodika.lv/#periodicalMeta:1728;-1)
+[Available issues](http://datatest.lnb.lv/digitala_biblioteka/laikraksti/RizskijVestnik/index.htm)
+
+* Рижское утро, 1915-1917
+
+OCR layer with old orthography symbols available 
+
+[Available issues](http://periodika.lv/#periodicalMeta:1685;-1)
 
 ## Independent Latvia (interwar)
 
-* Вера и жизнь
+* Вера и жизнь, 1923-1940
 
-[Available issues](http://periodika.lv/#periodical;id=132253963118353750298978754602598748995)
+[Available issues](http://periodika.lv/#periodicalItem:1734)
 
 * Вечернее время
 
 OCR layer with old orthography symbols available 
 
-[Available issues](http://periodika.lv/#periodicalItems;periodicalId=91744821138094733533839386800071546637)
+[Available issues](http://periodika.lv/#periodicalItem:1686)
 
 * Для вас
 
-[Available issues](http://periodika.lv/#periodicalItems;periodicalId=112200271155394575688621302084098270225)
+NB: poor Russian OCR (in modern orthography, many errors)
+
+[Available issues](http://periodika.lv/#periodicalItem:673)
 
 * Голос народа : вестник Русской крестьянской фракции Сейма
 
-* Сегодня
+[Available issues](http://periodika.lv/#periodicalMeta:276;-1)
 
-[Available issues](http://periodika.lv/#periodical;id=144107334857668552882337148291775094398)
+* Сегодня, 1919-1940
+
+[Available issues](http://periodika.lv/#periodicalItem:276)
