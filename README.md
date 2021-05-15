@@ -74,3 +74,17 @@ NB: poor Russian OCR (in modern orthography, many errors)
 * Сегодня, 1919-1940
 
 [Available issues](http://periodika.lv/#periodicalItem:276)
+
+# Useful tools/libraries
+
+https://github.com/KBNLresearch/ochre - postprocessing (NB: prepare GT data first)
+
+https://github.com/ktodorov/eval-historical-texts - postprocessing (using BERT embeddings)
+
+https://github.com/TurkuNLP/ocr-correction (poorly documented)
+
+https://github.com/kak-to-tak/Google_rusngram_spellcheck - a spellchecker for old Russian orthography (based on n-grams)
+
+https://github.com/dhhse/prereform2modern - a converter for old Russian orthography
+
+
