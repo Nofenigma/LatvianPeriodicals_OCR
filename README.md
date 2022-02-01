@@ -77,6 +77,8 @@ NB: poor Russian OCR (in modern orthography, many errors)
 
 # Useful tools/libraries
 
+Tesseract, OCRopus (add links)
+
 https://github.com/KBNLresearch/ochre - postprocessing (NB: prepare GT data first)
 
 https://github.com/ktodorov/eval-historical-texts - postprocessing (using BERT embeddings)
@@ -86,5 +88,11 @@ https://github.com/TurkuNLP/ocr-correction (poorly documented)
 https://github.com/kak-to-tak/Google_rusngram_spellcheck - a spellchecker for old Russian orthography (based on n-grams)
 
 https://github.com/dhhse/prereform2modern - a converter for old Russian orthography
+
+https://github.com/tberg12/ocular - Ocular, a state-of-the-art (at least in the past) system for historical OCR
+
+https://github.com/cisocrgroup/OCR-Workshop - materials from the workshop "OCR and postcorrection of early printings for digital humanities"
+
+http://cistern.cis.lmu.de/ocrocis/ - a wrapper for OCRopus
 
 
