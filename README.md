@@ -1,6 +1,59 @@
 # LatvianPeriodicals_OCR
 Experiments with periodicals published on the territory on modern Latvia in various languages (Latvian, Russian, Latgalian, German)
 
+# Periodicals in Latgalian
+
+Largely based on (http://data.lnb.lv/digitala_biblioteka/laikraksti/index3.htm):
+
+* Gaisma, 1905-1906
+
+* Sākla, 1906
+
+* Auseklis, 1906-1907
+
+[Available issues] (http://periodika.lv/#periodicalMeta:1539;-1](http://data.lnb.lv/nba01/Auseklis/1906/)
+
+* Drywa, 1908-1917
+
+[Available issues] (http://periodika.lv/#periodicalMeta:1539;-1]()
+	
+* Drywa : Gorīgajs pīlykums, 1912-1913
+
+[Available issues] (http://periodika.lv/#periodicalItem:1660)
+	
+* Drywa : Ziniskajs pīlykums, 1912-1913
+	
+* Drywa : Pielikums Gorīga Maize, 1914-1917 
+	
+* Drywa : Pielikums Orōjs, 1914-1915
+	
+* Jaunas Zinias, 1912-1914
+  
+* Liaužu Bolss, 1917
+
+* Jaunō Drywa, 1918
+	
+* Jaunō Letgola, 1918
+	
+* Latgalīts, 1920 - 1926
+	
+* Jaunō Straume 1921-1934
+	
+* Zemnīka Bolss, 1924-1926
+   
+* Zemnīka Ziņas, 1926-1931
+
+* Latgalīts, 1920-1926
+
+* Jaunais Wōrds, 1931-1940
+
+* Latgolas Wōrds, 1920-1940
+
+* Latgolas Dorbs, 1924-1934
+
+* Latgolas Socialdemokrats, 1928
+
+
 # Periodicals in Russian
 
 ## Russian Empire
