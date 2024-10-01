@@ -147,6 +147,10 @@ Largely based on (http://data.lnb.lv/digitala_biblioteka/laikraksti/index3.htm):
 
 [Available issues](http://periodika.lv/#periodicalItem:1617)
 
+* Latgolas Taisneiba (Daugavpils), 1945-1952
+
+[Available issues](http://periodika.lv/#periodicalItem:1448)
+
 ## Trimda
 
 * Latgola, 1946-1954
@@ -160,14 +164,6 @@ Largely based on (http://data.lnb.lv/digitala_biblioteka/laikraksti/index3.htm):
 * Latgolas Bolss, 1955-1985
 
 [Available issues](http://periodika.lv/#periodicalItem:311)
-
-* Latgolas Taisneiba (Daugavpils), 1945-1952
-
-[Available issues](http://periodika.lv/#periodicalItem:1448)
-
-* Ludzas Taisneiba, 1946-1961
-
-[Available issues](http://periodika.lv/#periodicalItem:1617)
 
 * Mōras Zeme, 1989-1994
 
