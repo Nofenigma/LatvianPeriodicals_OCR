@@ -180,11 +180,11 @@ Largely based on (http://data.lnb.lv/digitala_biblioteka/laikraksti/index3.htm):
 
 NB: incorrectly chosen models for later issues (German instead of Russian)
 
-* Rīgas Pilsētas Policijas Avīze = Ведомости Рижской Городской полиции, 1889-1902 (not all years available)
+* Rīgas Pilsētas Policijas Avīze = Ведомости Рижской Городской полиции, 1889-1907
 
 Trilingual; good Latvian and German OCR, poor Russian OCR (in modern orthography, many errors)
 
-[Available issues](http://periodika.lv/#periodicalMeta:358;-1)
+[Available issues](http://periodika.lv/#periodicalMeta:358](https://periodika.lv/#periodicalItem:358)
 
 * Лифляндские губернские ведомости = Livländische Gouvernements-Zeitung = Vidzemes Guberņas Avīze
 
